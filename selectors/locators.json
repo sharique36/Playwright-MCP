@@ -1,0 +1,32 @@
+{
+  "LoginPage": {
+    "usernameInput": "#user-name",
+    "passwordInput": "#password",
+    "loginButton": "#login-button",
+    "errorMessage": "[data-test='error']"
+  },
+  "InventoryPage": {
+    "productTitles": ".inventory_item_name",
+    "addToCartButtons": "button[data-test^='add-to-cart']",
+    "cartIcon": ".shopping_cart_link"
+  },
+  "CartPage": {
+    "cartItems": ".cart_item",
+    "checkoutButton": "[data-test='checkout']",
+    "removeButtons": "button[data-test^='remove']"
+  },
+  "CheckoutPage": {
+    "firstNameInput": "[data-test='firstName']",
+    "lastNameInput": "[data-test='lastName']",
+    "postalCodeInput": "[data-test='postalCode']",
+    "continueButton": "[data-test='continue']",
+    "finishButton": "[data-test='finish']",
+    "summaryContainer": ".summary_info",
+    "completeHeader": ".complete-header",
+    "cartItems": ".cart_item",
+    "itemName": ".inventory_item_name",
+    "itemPrice": ".inventory_item_price"
+  },
+  "sortDropdown": "div.right_component > span > select",
+  "productPrice": ".inventory_item_price"
+}

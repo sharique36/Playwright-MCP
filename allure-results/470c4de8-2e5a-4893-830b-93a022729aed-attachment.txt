@@ -1,0 +1,2 @@
+Prices after sorting low to high: [ 7.99, 9.99, 15.99, 15.99, 29.99, 49.99 ]
+Prices after sorting high to low: [ 49.99, 29.99, 15.99, 15.99, 9.99, 7.99 ]

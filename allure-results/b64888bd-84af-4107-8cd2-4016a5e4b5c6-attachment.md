@@ -1,0 +1,465 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e6]:
+      - paragraph [ref=e8]: "Sauce AI for Test Authoring: Move from intent to execution in minutes."
+      - generic [ref=e9]:
+        - paragraph [ref=e10]: "|"
+        - link "Learn More" [ref=e11] [cursor=pointer]:
+          - /url: https://saucelabs.com/products/sauce-ai-for-authoring?utm_source=website&utm_medium=banner&utm_campaign=sauceai_fy26
+          - paragraph [ref=e12]: Learn More
+          - img [ref=e13]
+      - paragraph [ref=e17] [cursor=pointer]: x
+    - banner [ref=e18]:
+      - generic "Nav" [ref=e19]:
+        - generic [ref=e20]:
+          - link "Sauce Labs Home" [ref=e22] [cursor=pointer]:
+            - /url: /
+            - img "Saucelabs" [ref=e24]
+          - generic [ref=e25]:
+            - generic [ref=e28]:
+              - generic [ref=e29] [cursor=pointer]: Products
+              - img "expand menu" [ref=e31]
+            - link "Sauce AI" [ref=e34] [cursor=pointer]:
+              - /url: /solutions/ai
+            - generic [ref=e37]:
+              - generic [ref=e38] [cursor=pointer]: Solutions
+              - img "expand menu" [ref=e40]
+            - link "Pricing" [ref=e43] [cursor=pointer]:
+              - /url: /pricing
+            - generic [ref=e46]:
+              - generic [ref=e47] [cursor=pointer]: Developers
+              - img "expand menu" [ref=e49]
+            - generic [ref=e52]:
+              - generic [ref=e53] [cursor=pointer]: Resources
+              - img "expand menu" [ref=e55]
+        - generic [ref=e56]:
+          - link "Request a demo" [ref=e57] [cursor=pointer]:
+            - /url: /request-demo
+            - button "Request a demo" [ref=e58]
+          - link "Try it free" [ref=e59] [cursor=pointer]:
+            - /url: https://signup.saucelabs.com/
+            - button "Try it free" [ref=e60]
+          - button "Sauce Labs Image" [ref=e61] [cursor=pointer]:
+            - img "Sauce Labs Image" [ref=e62]
+    - generic [ref=e63]:
+      - generic [ref=e66]:
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - heading "The World's Only Full-Lifecycle AI-Quality Platform" [level=1] [ref=e71]
+            - generic [ref=e72]:
+              - paragraph [ref=e75]: Built for enterprise engineering teams, Sauce AI agents auto-generate, execute, debug and autonomously update tests — delivering 38% more productivity, 75% reduction in critical issues, and 46% higher ship frequency.
+              - generic [ref=e77]:
+                - link "Sign up for free" [ref=e79] [cursor=pointer]:
+                  - /url: https://signup.saucelabs.com/
+                  - button "Sign up for free" [ref=e80]
+                - link "Book a demo" [ref=e82] [cursor=pointer]:
+                  - /url: https://saucelabs.com/request-demo
+                  - button "Book a demo" [ref=e83]
+          - generic [ref=e84]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: 8+bn
+              - generic [ref=e87]: TESTS EXECUTED
+            - generic [ref=e88]:
+              - generic [ref=e89]: 300k
+              - generic [ref=e90]: ACTIVE USERS
+            - generic [ref=e91]:
+              - generic [ref=e92]: 9000+
+              - generic [ref=e93]: REAL DEVICES
+            - generic [ref=e94]:
+              - generic [ref=e95]: 2500+
+              - generic [ref=e96]: EMUSIMS AND BROWSER/OSES
+        - img [ref=e99]
+      - generic [ref=e511]:
+        - generic [ref=e512]: Built on the Sauce Labs enterprise-grade platform, trusted by thousands of global brands
+        - generic [ref=e516]:
+          - img "SAP White Banner" [ref=e520]
+          - img "Bank of America Banner White" [ref=e524]
+          - img "Microsoft Logo white" [ref=e528]
+          - img "Walmart Banner White" [ref=e532]
+          - img "Indeed Banner White" [ref=e536]
+          - img "SalesForce Banner White" [ref=e540]
+          - img "Splunk Banner White" [ref=e544]
+          - img "SAP White Banner" [ref=e548]
+          - img "Bank of America Banner White" [ref=e552]
+          - img "Microsoft Logo white" [ref=e556]
+          - img "Walmart Banner White" [ref=e560]
+          - img "Indeed Banner White" [ref=e564]
+          - img "SalesForce Banner White" [ref=e568]
+          - img "Splunk Banner White" [ref=e572]
+          - img "SAP White Banner" [ref=e576]
+          - img "Bank of America Banner White" [ref=e580]
+          - img "Microsoft Logo white" [ref=e584]
+          - img "Walmart Banner White" [ref=e588]
+          - img "Indeed Banner White" [ref=e592]
+          - img "SalesForce Banner White" [ref=e596]
+          - img "Splunk Banner White" [ref=e600]
+          - img "SAP White Banner" [ref=e604]
+          - img "Bank of America Banner White" [ref=e608]
+          - img "Microsoft Logo white" [ref=e612]
+          - img "Walmart Banner White" [ref=e616]
+          - img "Indeed Banner White" [ref=e620]
+          - img "SalesForce Banner White" [ref=e624]
+          - img "Splunk Banner White" [ref=e628]
+          - img "SAP White Banner" [ref=e632]
+          - img "Bank of America Banner White" [ref=e636]
+          - img "Microsoft Logo white" [ref=e640]
+          - img "Walmart Banner White" [ref=e644]
+          - img "Indeed Banner White" [ref=e648]
+          - img "SalesForce Banner White" [ref=e652]
+          - img "Splunk Banner White" [ref=e656]
+          - img "SAP White Banner" [ref=e660]
+          - img "Bank of America Banner White" [ref=e664]
+          - img "Microsoft Logo white" [ref=e668]
+          - img "Walmart Banner White" [ref=e672]
+          - img "Indeed Banner White" [ref=e676]
+          - img "SalesForce Banner White" [ref=e680]
+          - img "Splunk Banner White" [ref=e684]
+      - generic [ref=e690]:
+        - generic [ref=e695]:
+          - heading "ENTERPRISE-READY. AI-DRIVEN. ONE UNIFIED VIEW." [level=3] [ref=e697]
+          - heading "One Platform for Continuous Quality" [level=2] [ref=e699]
+          - paragraph [ref=e701]: Ensure quality at every stage of development with AI-powered agents. Access the widest selection of real devices, virtual emulators and simulators, and browsers/OS support, plus streamlined app distribution and error reporting—all in one powerful platform.
+        - generic [ref=e704]:
+          - generic [ref=e705]:
+            - img [ref=e708] [cursor=pointer]
+            - generic [ref=e710]:
+              - button "AI-Driven Test Authoring" [ref=e711] [cursor=pointer]
+              - button "AI-Powered Insights" [ref=e712] [cursor=pointer]
+              - button "Mobile App Testing" [ref=e713] [cursor=pointer]
+              - button "Web Testing" [ref=e714] [cursor=pointer]
+              - button "Mobile App Distribution" [ref=e715] [cursor=pointer]
+              - button "Error Reporting" [ref=e716] [cursor=pointer]
+              - button "Visual Testing" [ref=e717] [cursor=pointer]
+            - img [ref=e721] [cursor=pointer]
+          - generic [ref=e724]:
+            - generic [ref=e727]:
+              - generic [ref=e728]:
+                - heading "Visual Testing" [level=5] [ref=e730]
+                - paragraph [ref=e731]: Automate UI testing to catch visual issues early. Integrated into the Sauce Platform, it ensures pixel-perfect experiences and faster, high-quality releases.
+              - link "Learn more about Visual Testing" [ref=e733] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/visual-testing
+                - generic [ref=e734]:
+                  - generic [ref=e736]: Learn more about Visual Testing
+                  - img [ref=e738]
+            - generic [ref=e744]:
+              - generic [ref=e745]:
+                - heading "AI-Driven Test Authoring" [level=5] [ref=e747]
+                - paragraph [ref=e748]: Sauce AI for Test Authoring generates resilient, across-platform tests in minutes— so your team can stop maintaining and start shipping.
+              - link "Learn More About Sauce AI for Test Authoring" [ref=e750] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/sauce-ai-for-authoring
+                - generic [ref=e751]:
+                  - generic [ref=e753]: Learn More About Sauce AI for Test Authoring
+                  - img [ref=e755]
+            - generic [ref=e761]:
+              - generic [ref=e762]:
+                - heading "AI-Powered Insights" [level=5] [ref=e764]
+                - paragraph [ref=e765]: Transform billions of raw data points into actionable insights. AI-powered Insights delivers real-time analytics and visibility so teams can track performance, act quickly, and deliver quality apps faster than ever.
+              - link "Learn more about AI-Powered Insights" [ref=e767] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/sauce-ai-for-insights
+                - generic [ref=e768]:
+                  - generic [ref=e770]: Learn more about AI-Powered Insights
+                  - img [ref=e772]
+            - generic [ref=e778]:
+              - generic [ref=e779]:
+                - heading "Mobile App Testing" [level=5] [ref=e781]
+                - paragraph [ref=e782]: Release high-quality apps without the headache of managing infrastructure. Test on thousands of real and virtual devices anytime, anywhere - to ensure quality experiences across every mobile platform.
+              - link "Learn more about Mobile App Testing" [ref=e784] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/mobile-testing
+                - generic [ref=e785]:
+                  - generic [ref=e787]: Learn more about Mobile App Testing
+                  - img [ref=e789]
+            - generic [ref=e795]:
+              - generic [ref=e796]:
+                - heading "Web Testing" [level=5] [ref=e798]
+                - paragraph [ref=e799]: Accelerate test automation with the most scalable and robust infrastructure. Run thousands of parallel tests using your preferred strategy and framework, backed by industry-leading expertise.
+              - link "Learn more about Web Testing" [ref=e801] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/cross-browser-testing
+                - generic [ref=e802]:
+                  - generic [ref=e804]: Learn more about Web Testing
+                  - img [ref=e806]
+            - generic [ref=e812]:
+              - generic [ref=e813]:
+                - heading "Mobile App Distribution" [level=5] [ref=e815]
+                - paragraph [ref=e816]: Distribute Android and iOS apps on a secure, enterprise-grade platform. Gather user insights, streamline beta testing, and control access to accelerate development while reducing risks.
+              - link "Learn more about Mobile App Distribution" [ref=e818] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/mobile-testing/app-betas
+                - generic [ref=e819]:
+                  - generic [ref=e821]: Learn more about Mobile App Distribution
+                  - img [ref=e823]
+            - generic [ref=e829]:
+              - generic [ref=e830]:
+                - heading "Error Reporting" [level=5] [ref=e832]
+                - paragraph [ref=e833]: Find and fix crashes up to 50% faster. Get early warnings for production errors and improve team collaboration, accelerating innovation and overall software quality.
+              - link "Learn more about Error Reporting" [ref=e835] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/error-reporting
+                - generic [ref=e836]:
+                  - generic [ref=e838]: Learn more about Error Reporting
+                  - img [ref=e840]
+            - generic [ref=e846]:
+              - generic [ref=e847]:
+                - heading "Visual Testing" [level=5] [ref=e849]
+                - paragraph [ref=e850]: Automate UI testing to catch visual issues early. Integrated into the Sauce Platform, it ensures pixel-perfect experiences and faster, high-quality releases.
+              - link "Learn more about Visual Testing" [ref=e852] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/visual-testing
+                - generic [ref=e853]:
+                  - generic [ref=e855]: Learn more about Visual Testing
+                  - img [ref=e857]
+            - generic [ref=e863]:
+              - generic [ref=e864]:
+                - heading "AI-Driven Test Authoring" [level=5] [ref=e866]
+                - paragraph [ref=e867]: Sauce AI for Test Authoring generates resilient, across-platform tests in minutes— so your team can stop maintaining and start shipping.
+              - link "Learn More About Sauce AI for Test Authoring" [ref=e869] [cursor=pointer]:
+                - /url: https://saucelabs.com/products/sauce-ai-for-authoring
+                - generic [ref=e870]:
+                  - generic [ref=e872]: Learn More About Sauce AI for Test Authoring
+                  - img [ref=e874]
+      - generic [ref=e882]:
+        - generic [ref=e886]:
+          - img "Why our customers love Sauce Labs" [ref=e890]
+          - generic [ref=e892]:
+            - heading "CASE STUDIES" [level=3] [ref=e894]
+            - heading "The secret sauce behind every great app" [level=2] [ref=e896]
+            - paragraph [ref=e898]: Discover how leading brands deliver high-quality digital experiences with Sauce Labs.
+        - generic [ref=e902]:
+          - generic [ref=e904]:
+            - generic [ref=e905]:
+              - img "quote" [ref=e907]
+              - generic [ref=e908]:
+                - img "Walmart Logo" [ref=e910]
+                - generic [ref=e911]:
+                  - separator [ref=e912]
+                  - generic [ref=e913]:
+                    - paragraph [ref=e914]: Pranav Verma
+                    - paragraph [ref=e915]: Sr Engineering Manager
+            - paragraph [ref=e916]: “Thanks to Sauce Labs, we are able to ensure that our apps work on over 700 browser/ OS combinations, 172 device emulators and over 300 unique real devices.”
+            - link "Read the Case Study" [ref=e917] [cursor=pointer]:
+              - /url: https://saucelabs.com/resources/case-studies/walmart-embraces-test-automation-and-open-source-to-increase-coverage-and-deploy-more-often
+              - generic [ref=e918]:
+                - generic [ref=e920]: Read the Case Study
+                - img [ref=e922]
+          - generic [ref=e925]:
+            - generic [ref=e926]:
+              - img "quote" [ref=e928]
+              - generic [ref=e929]:
+                - img "KW Logo" [ref=e931]
+                - generic [ref=e932]:
+                  - separator [ref=e933]
+                  - generic [ref=e934]:
+                    - paragraph [ref=e935]: Ray Maldano
+                    - paragraph [ref=e936]: Senior Engineering Manager
+            - paragraph [ref=e937]: “With Sauce Labs, we can test all of the platform combinations we know are being used by agents and homeowners in the market so that every person can connect and find their dream home effortlessly.”
+            - link "Read the Case Study" [ref=e938] [cursor=pointer]:
+              - /url: https://saucelabs.com/resources/case-studies/how-keller-williams-accelerated-their-release-cycles-with-sauce-labs
+              - generic [ref=e939]:
+                - generic [ref=e941]: Read the Case Study
+                - img [ref=e943]
+          - generic [ref=e946]:
+            - generic [ref=e947]:
+              - img "quote" [ref=e949]
+              - generic [ref=e950]:
+                - img "eMoney Logo" [ref=e952]
+                - generic [ref=e953]:
+                  - separator [ref=e954]
+                  - generic [ref=e955]:
+                    - paragraph [ref=e956]: Chuan Au
+                    - paragraph [ref=e957]: VP of Quality Assurance
+            - paragraph [ref=e958]: “Sauce Labs is the one-stop shop for all our software quality needs.”
+            - link "Read the Case Study" [ref=e959] [cursor=pointer]:
+              - /url: https://saucelabs.com/resources/case-studies/emoney-advisor-mobile-cross-browser-and-visual-testing-sauce-labs
+              - generic [ref=e960]:
+                - generic [ref=e962]: Read the Case Study
+                - img [ref=e964]
+          - generic [ref=e967]:
+            - generic [ref=e968]:
+              - img "quote" [ref=e970]
+              - generic [ref=e971]:
+                - img "Indeed Logo" [ref=e973]
+                - generic [ref=e974]:
+                  - separator [ref=e975]
+                  - generic [ref=e976]:
+                    - paragraph [ref=e977]: Maxim Stognev
+                    - paragraph [ref=e978]: Staff Mobile Engineer
+            - paragraph [ref=e979]: “Sauce Labs has helped us take a massively data-driven approach to quality in our CI/CD pipelines… extending our test suite and doubling unit test coverage to deliver new functionality to customers.”
+            - link "Read the Case Study" [ref=e980] [cursor=pointer]:
+              - /url: https://saucelabs.com/resources/case-studies/indeed-flex-launch-quality-transformation
+              - generic [ref=e981]:
+                - generic [ref=e983]: Read the Case Study
+                - img [ref=e985]
+      - generic [ref=e999]:
+        - generic [ref=e1001]:
+          - generic [ref=e1002]:
+            - img "Bamboo" [ref=e1004]
+            - img "Travis" [ref=e1006]
+          - generic [ref=e1007]:
+            - img "Slack" [ref=e1009]
+            - img "Frame" [ref=e1011]
+        - generic [ref=e1014]:
+          - heading "Integrate & Setup" [level=3] [ref=e1016]
+          - heading "Sauce Labs + Your Go-To Automation Tools" [level=2] [ref=e1017]
+          - paragraph [ref=e1018]: Easily connect with your favorite CI/CD platforms to streamline and accelerate your automation workflows.
+          - link "Learn more about integrations arrow icon" [ref=e1019] [cursor=pointer]:
+            - /url: https://saucelabs.com/products/integrations-and-plugins
+            - button "Learn more about integrations arrow icon" [ref=e1020]:
+              - text: Learn more about integrations
+              - img "arrow icon" [ref=e1022]
+        - generic [ref=e1024]:
+          - generic [ref=e1025]:
+            - img "GitHub" [ref=e1027]
+            - img "Travis ci" [ref=e1029]
+          - generic [ref=e1030]:
+            - img "g10" [ref=e1032]
+            - img "integration" [ref=e1034]
+      - generic [ref=e1038]:
+        - generic [ref=e1042]:
+          - img "Media Image" [ref=e1046]
+          - generic [ref=e1048]:
+            - heading "Ready to Start Testing? Try It Free." [level=2] [ref=e1050]
+            - paragraph [ref=e1052]: Set up in minutes and run your first test today.
+            - link "Sign up for free" [ref=e1056] [cursor=pointer]:
+              - /url: https://signup.saucelabs.com/
+              - button "Sign up for free" [ref=e1057]
+        - img [ref=e1059]
+      - generic [ref=e1063]:
+        - generic [ref=e1066]:
+          - generic [ref=e1067]:
+            - heading "What's New" [level=2] [ref=e1068]
+            - link "More updates" [ref=e1069] [cursor=pointer]:
+              - /url: /resources/blog
+              - generic [ref=e1070]:
+                - generic [ref=e1072]: More updates
+                - img [ref=e1074]
+          - generic [ref=e1076]:
+            - link "Blog Comparing the 20 Best Visual Testing Tools of 2026 Learn More" [ref=e1078] [cursor=pointer]:
+              - /url: /resources/blog/comparing-the-20-best-visual-testing-tools-of-2026
+              - generic [ref=e1079]:
+                - generic [ref=e1082]: Blog
+                - heading "Comparing the 20 Best Visual Testing Tools of 2026" [level=3] [ref=e1084]
+                - generic [ref=e1085]: Learn More
+            - separator [ref=e1086]
+            - link "Blog Sauce AI for Test Authoring is Here Learn More" [ref=e1088] [cursor=pointer]:
+              - /url: /resources/blog/sauce-ai-for-test-authoring-is-here
+              - generic [ref=e1089]:
+                - generic [ref=e1092]: Blog
+                - heading "Sauce AI for Test Authoring is Here" [level=3] [ref=e1094]
+                - generic [ref=e1095]: Learn More
+            - separator [ref=e1096]
+            - link "Blog The Best Error Reporting & Crash Monitoring Tools of 2026 Learn More" [ref=e1098] [cursor=pointer]:
+              - /url: /resources/blog/the-best-error-reporting-and-crash-monitoring-tools-of-2026
+              - generic [ref=e1099]:
+                - generic [ref=e1102]: Blog
+                - heading "The Best Error Reporting & Crash Monitoring Tools of 2026" [level=3] [ref=e1104]
+                - generic [ref=e1105]: Learn More
+        - img [ref=e1107]
+    - generic [ref=e1109]:
+      - generic [ref=e1110]:
+        - generic [ref=e1113]:
+          - img "Saucelabs" [ref=e1114]
+          - generic [ref=e1115]:
+            - generic [ref=e1116]: Products
+            - generic [ref=e1117]:
+              - link "Platform for Test" [ref=e1120] [cursor=pointer]:
+                - /url: /products
+              - link "Sauce Web Testing" [ref=e1123] [cursor=pointer]:
+                - /url: /products/cross-browser-testing
+              - link "Sauce Mobile App Testing" [ref=e1126] [cursor=pointer]:
+                - /url: /products/mobile-testing
+              - link "Mobile App Distribution" [ref=e1129] [cursor=pointer]:
+                - /url: /products/mobile-testing/app-betas
+              - link "Sauce Error Reporting" [ref=e1132] [cursor=pointer]:
+                - /url: /products/error-reporting
+              - link "Sauce Visual" [ref=e1135] [cursor=pointer]:
+                - /url: /products/visual-testing
+          - generic [ref=e1136]:
+            - generic [ref=e1137]: Global tools
+            - generic [ref=e1138]:
+              - link "Sauce AI" [ref=e1141] [cursor=pointer]:
+                - /url: https://saucelabs.com/solutions/ai
+                - generic [ref=e1142]: Sauce AI
+                - img [ref=e1144]
+              - link "Sauce Insights" [ref=e1148] [cursor=pointer]:
+                - /url: /products/sauce-insights
+              - link "Sauce Performance" [ref=e1151] [cursor=pointer]:
+                - /url: /products/sauce-performance
+          - generic [ref=e1152]:
+            - generic [ref=e1153]: Set up and integrate
+            - generic [ref=e1154]:
+              - link "Integrations & plugins" [ref=e1157] [cursor=pointer]:
+                - /url: /products/integrations-and-plugins
+              - link "Supported browsers and devices" [ref=e1160] [cursor=pointer]:
+                - /url: /products/supported-browsers-devices
+              - link "Platform configurator" [ref=e1163] [cursor=pointer]:
+                - /url: /products/platform-configurator
+              - link "Premium Consulting Services" [ref=e1166] [cursor=pointer]:
+                - /url: /consulting-services
+          - generic [ref=e1167]:
+            - generic [ref=e1168]: Resources
+            - generic [ref=e1169]:
+              - link "Resources by topic" [ref=e1172] [cursor=pointer]:
+                - /url: /resources/topic-hub
+              - link "Blog" [ref=e1175] [cursor=pointer]:
+                - /url: /resources/blog
+              - link "FAQs" [ref=e1178] [cursor=pointer]:
+                - /url: /faqs
+              - link "Documentation" [ref=e1181] [cursor=pointer]:
+                - /url: https://docs.saucelabs.com/
+                - generic [ref=e1182]: Documentation
+                - img [ref=e1184]
+              - link "Support" [ref=e1188] [cursor=pointer]:
+                - /url: https://support.saucelabs.com/
+                - generic [ref=e1189]: Support
+                - img [ref=e1191]
+              - link "Videos" [ref=e1195] [cursor=pointer]:
+                - /url: /resources/video
+              - link "Webinars" [ref=e1198] [cursor=pointer]:
+                - /url: /resources/webinar
+          - generic [ref=e1199]:
+            - generic [ref=e1200]: Company
+            - generic [ref=e1201]:
+              - link "About us" [ref=e1204] [cursor=pointer]:
+                - /url: /about-us
+              - link "Trust Center" [ref=e1207] [cursor=pointer]:
+                - /url: https://trust.saucelabs.com/
+                - generic [ref=e1208]: Trust Center
+                - img [ref=e1210]
+              - link "Partners" [ref=e1214] [cursor=pointer]:
+                - /url: /company/partners
+              - link "Careers" [ref=e1217] [cursor=pointer]:
+                - /url: /careers
+              - link "News" [ref=e1220] [cursor=pointer]:
+                - /url: /company/news
+              - link "Contact us" [ref=e1223] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Systems status" [ref=e1226] [cursor=pointer]:
+                - /url: https://status.saucelabs.com/
+                - generic [ref=e1227]: Systems status
+                - img [ref=e1229]
+        - generic [ref=e1231]:
+          - generic [ref=e1232]:
+            - link "Twitter" [ref=e1234] [cursor=pointer]:
+              - /url: https://twitter.com/saucelabs
+              - img "Twitter" [ref=e1235]
+            - link "Facebook" [ref=e1237] [cursor=pointer]:
+              - /url: https://www.facebook.com/saucelabs/
+              - img "Facebook" [ref=e1238]
+            - link "LinkedIn" [ref=e1240] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/sauce-labs/
+              - img "LinkedIn" [ref=e1241]
+          - generic [ref=e1242]:
+            - link "Terms of Service" [ref=e1244] [cursor=pointer]:
+              - /url: /doc/terms-of-service
+            - link "Privacy Policy" [ref=e1246] [cursor=pointer]:
+              - /url: /doc/privacy-policy
+            - link "EEA" [ref=e1248] [cursor=pointer]:
+              - /url: /doc/eea
+            - link "CCPA" [ref=e1250] [cursor=pointer]:
+              - /url: /doc/ccpa
+            - button "privacy choices icon Your Privacy Choices" [ref=e1251] [cursor=pointer]:
+              - img "privacy choices icon" [ref=e1252]
+              - generic [ref=e1253]: Your Privacy Choices
+        - generic [ref=e1254]: © 2026 Sauce Labs Inc., all rights reserved. SAUCE and SAUCE LABS are registered trademarks owned by Sauce Labs Inc. in the United States, EU, and may be registered in other jurisdictions.
+      - img "quote" [ref=e1256]
+  - alert [ref=e1257]
+```

@@ -1,0 +1,21 @@
+{
+  "name": "playwright-mcp-practice",
+  "version": "1.0.0",
+  "description": "E2E automation framework for saucedemo.com using Playwright and POM.",
+  "main": "index.js",
+  "scripts": {
+  "test": "npx playwright test",
+  "test:report": "npx playwright test --reporter=html",
+  "test:headed": "npx playwright test --headed",
+  "test:debug": "npx playwright test --debug",
+  "bdd": "npx cucumber-js features --require features/step_definitions --require features/support/saucedemo_world.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.7.0",
+    "@playwright/test": "^1.43.0",
+    "allure-playwright": "^3.6.0",
+    "typescript": "^5.0.0"
+  }
+}
