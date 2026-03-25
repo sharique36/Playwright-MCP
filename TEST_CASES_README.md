@@ -5,6 +5,7 @@ This project uses the Model Context Protocol (MCP) for test case generation and 
 ## Test Case List (Automated)
 
 
+
 ### Login Scenarios
 1. Valid login (positive)
 2. Invalid login (negative)
@@ -14,25 +15,47 @@ This project uses the Model Context Protocol (MCP) for test case generation and 
 6. Login with empty username (negative)
 7. Login with empty password (negative)
 
+### Navigation and Menu Scenarios
+8. About link navigates to correct external page (same tab)
+9. Logout redirects to login
+10. Reset app state clears cart and resets UI
+
 ### Product and Cart Scenarios
-8. Add a product to cart (positive)
-9. Remove product from cart (positive)
-10. Add multiple products to cart (positive)
-11. Cart icon shows correct count (positive)
-12. Add all products to cart dynamically (positive)
-13. Remove all products from cart dynamically (positive)
+11. Add a product to cart (positive)
+12. Remove product from cart (positive)
+13. Add all products to cart dynamically (positive)
+14. Remove all products from cart dynamically (positive)
+15. Add multiple products to cart and validate total
+16. Cart icon shows correct count (positive)
+17. Cart badge updates correctly with multiple add/remove
+18. Cart badge and contents persist after refresh
+19. Cart persistence after logout and login
+20. Remove item from cart from inventory page
+21. Continue shopping button returns to inventory page
+
+### Product Sorting and Details
+22. Sort products by price low to high and high to low and validate order
+23. Sort products by name A-Z and Z-A and validate order
+24. Inventory item details validation (name, price, description)
+25. Product price matches on checkout page
 
 ### Checkout Scenarios
-14. Checkout with valid info (positive)
-15. Checkout with missing info (negative)
-16. Checkout with invalid postal code (negative)
-17. Checkout with long names (edge)
+26. Checkout with valid info (positive)
+27. Checkout with missing info (negative)
+28. Checkout with invalid postal code (negative)
+29. Checkout with long names (edge)
+30. Checkout cancel button returns to cart
+31. Checkout overview price calculation (total matches sum of items)
+
+### End-to-End and Tab/Navigation Scenarios
+32. Complete purchase and logout (E2E)
+33. Open link in new tab, validate, close, switch, and use browser navigation
 
 ### Edge Cases and Validations
-18. Cannot checkout with empty cart (edge/negative)
-19. Session persists after reload (edge)
-20. Logout redirects to login (positive)
-21. Add/remove product repeatedly (dynamic, edge)
+34. Cannot checkout with empty cart (edge/negative)
+35. Session persists after reload (edge)
+36. Add/remove product repeatedly (dynamic, edge)
+37. Add all products to cart, detect failures, and print unaddable items
 
 ---
 
